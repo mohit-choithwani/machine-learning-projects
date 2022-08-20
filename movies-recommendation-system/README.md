@@ -7,5 +7,5 @@ It uses item features (genre, cast, director) to recommend other items similar t
 
 ## Screenshots.
 
-![App Screenshot]{Capture.PNG}
+![App Screenshot](Capture.PNG)
 
