@@ -7,5 +7,5 @@ It uses item features (genre, cast, director) to recommend other items similar t
 
 ## Screenshots.
 
-![App Screenshot](https://github.com/mohit-choithwani/movies-recommender-system/blob/master/Capture.png?raw=true)machine-learning-projects/
+![App Screenshot](Capture.png)
 
